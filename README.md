@@ -1,2 +1,2 @@
 # rsschool-cv
-rs school tasks
+ttps://san-arturos.github.io/rsschool-cv/cv
