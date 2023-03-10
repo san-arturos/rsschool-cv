@@ -26,7 +26,7 @@ I am 30 years old and I am an economist. Most of my friends are programmers. Whe
   <div class="highlight">
     <pre class="highlight">
     <code>
-    "ВСТАВИТЬ КОДL"
+    "Код должен быть здесь"
     </code>
     </pre>
   </div>
